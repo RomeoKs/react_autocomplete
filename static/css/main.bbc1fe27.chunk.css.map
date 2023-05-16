@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,eAGC,UAAW,CACZ,kBAGC,gBAAiB,CACjB,eAAgB","file":"main.bbc1fe27.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.dropdown-menu {\n  width: 100%;\n}\n\n.dropdown-content {\n  max-height: 14rem;\n  overflow-y: auto;\n}\n"]}
